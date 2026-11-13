@@ -1,0 +1,827 @@
+{
+  "audio_file": "test.mp3",
+  "language": "en",
+  "language_probability": 0.841,
+  "duration_seconds": 271.96,
+  "model": "base",
+  "processing_seconds": 31.95,
+  "full_text": "Hoping after you've been here, your dad's gonna be with you, so he's gonna know what you're gonna do. You're gonna be surprised. Well, we'll go back to home first. All right. Then I'll go out. All right, so yeah, I'll see you in a minute. We'll go shopping. Where's your nearest shop? Ealing. All right, yeah. Yeah. And so you must have some idea, way. He's been hinting on, I think, a few things, like, as I am game that he wants. And things like that. It's not a game. It's a... Military one for the PlayStation. All right, yeah. Yeah. I'll be game. What? So you think you might get that? I might do. I'll see. You might get a surprise. Yeah. What did you give him last year? I don't remember now. I don't remember. I don't remember. Anybody asked you. You probably asked me. You don't remember? A city of Christophe. And your niece is coming tonight? Yeah. Because our member is quite young. Yeah, she's three. Right. And that's your sister's daughter. No, it's my brother's. And where does your niece live normally? She lives in St. St. Orbans. All right. And that's the thing. Your sister's coming tomorrow? Yeah. And where's that from? She lives in St. St. Orbans. All right. Okay. So both your brother and your sister live in St. Orbans? Oh, no. But my brother lives in Anfield. Right. And my sister's in St. St. Orbans, yeah. Both of you live in Orbans. Yeah. We do a list tonight. Um, three. She's kind of hyper. So. So you'll be giving your brother a bit of a rest. Yeah. And is that your only niece or nephew? Yeah. So far. So far. Yeah. I think my sister wants to have a baby sometimes soon. And you're the youngest? Yeah. I am. How are your brother and sister? My brother's 30. And my sister's 27. 17. 17. Not quite. No. In November. Kind of. And the course is going well? Yeah. So far. And we'll be specializing soon. Yeah. So we're sort of having to find out what we want to do. Which is kind of hard. Yeah. I was just going to say you've got any idea what you want. Man. You've got to specialise in your second year. Yeah. And that would mean perhaps something I like. Textile design or printing or something. Yeah. That sort of area. Um. Photography. Is that an option? Um. Yeah. You can do that. I don't know what are they. I'm just really stuck. Tell me what you're using for your genetic engineering project. Um. Today I've been trying dip pen. Which is working quite well. It's kind of like ink. And use bleach and stuff to create different effects. Kind of. So it's free hand drawing. Um. Yeah. And then use bleach to give it different effects. And it kind of makes a go. Yeah. Yeah. Yeah, I'll be looking. And if you can't, interesting. You're just experimenting. At the moment. I am. Because I don't know what to use for it. Yeah. Um. Two weeks. So. You've got to hand it in the last up when you can. Yeah.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.53,
+      "end": 7.62,
+      "text": "Hoping after you've been here, your dad's gonna be with you, so he's gonna know what you're gonna do."
+    },
+    {
+      "id": 1,
+      "start": 7.62,
+      "end": 8.62,
+      "text": "You're gonna be surprised."
+    },
+    {
+      "id": 2,
+      "start": 8.62,
+      "end": 13.39,
+      "text": "Well, we'll go back to home first."
+    },
+    {
+      "id": 3,
+      "start": 13.39,
+      "end": 14.39,
+      "text": "All right."
+    },
+    {
+      "id": 4,
+      "start": 14.39,
+      "end": 15.39,
+      "text": "Then I'll go out."
+    },
+    {
+      "id": 5,
+      "start": 15.39,
+      "end": 17.42,
+      "text": "All right, so yeah, I'll see you in a minute."
+    },
+    {
+      "id": 6,
+      "start": 17.42,
+      "end": 18.42,
+      "text": "We'll go shopping."
+    },
+    {
+      "id": 7,
+      "start": 18.42,
+      "end": 20.42,
+      "text": "Where's your nearest shop?"
+    },
+    {
+      "id": 8,
+      "start": 20.42,
+      "end": 21.42,
+      "text": "Ealing."
+    },
+    {
+      "id": 9,
+      "start": 21.42,
+      "end": 22.42,
+      "text": "All right, yeah."
+    },
+    {
+      "id": 10,
+      "start": 22.42,
+      "end": 23.42,
+      "text": "Yeah."
+    },
+    {
+      "id": 11,
+      "start": 23.42,
+      "end": 27.06,
+      "text": "And so you must have some idea, way."
+    },
+    {
+      "id": 12,
+      "start": 28.06,
+      "end": 34.8,
+      "text": "He's been hinting on, I think, a few things, like, as I am game that he wants."
+    },
+    {
+      "id": 13,
+      "start": 34.8,
+      "end": 35.8,
+      "text": "And things like that."
+    },
+    {
+      "id": 14,
+      "start": 35.8,
+      "end": 36.8,
+      "text": "It's not a game."
+    },
+    {
+      "id": 15,
+      "start": 36.8,
+      "end": 39.8,
+      "text": "It's a..."
+    },
+    {
+      "id": 16,
+      "start": 39.8,
+      "end": 41.8,
+      "text": "Military one for the PlayStation."
+    },
+    {
+      "id": 17,
+      "start": 41.8,
+      "end": 42.8,
+      "text": "All right, yeah."
+    },
+    {
+      "id": 18,
+      "start": 42.8,
+      "end": 43.8,
+      "text": "Yeah."
+    },
+    {
+      "id": 19,
+      "start": 43.8,
+      "end": 44.8,
+      "text": "I'll be game."
+    },
+    {
+      "id": 20,
+      "start": 44.8,
+      "end": 45.8,
+      "text": "What?"
+    },
+    {
+      "id": 21,
+      "start": 45.8,
+      "end": 47.8,
+      "text": "So you think you might get that?"
+    },
+    {
+      "id": 22,
+      "start": 47.8,
+      "end": 50.28,
+      "text": "I might do."
+    },
+    {
+      "id": 23,
+      "start": 50.28,
+      "end": 51.28,
+      "text": "I'll see."
+    },
+    {
+      "id": 24,
+      "start": 51.28,
+      "end": 53.31,
+      "text": "You might get a surprise."
+    },
+    {
+      "id": 25,
+      "start": 53.31,
+      "end": 55.34,
+      "text": "Yeah."
+    },
+    {
+      "id": 26,
+      "start": 55.34,
+      "end": 57.53,
+      "text": "What did you give him last year?"
+    },
+    {
+      "id": 27,
+      "start": 57.53,
+      "end": 59.3,
+      "text": "I don't remember now."
+    },
+    {
+      "id": 28,
+      "start": 59.3,
+      "end": 60.3,
+      "text": "I don't remember."
+    },
+    {
+      "id": 29,
+      "start": 60.3,
+      "end": 61.3,
+      "text": "I don't remember."
+    },
+    {
+      "id": 30,
+      "start": 61.3,
+      "end": 62.3,
+      "text": "Anybody asked you."
+    },
+    {
+      "id": 31,
+      "start": 62.3,
+      "end": 63.3,
+      "text": "You probably asked me."
+    },
+    {
+      "id": 32,
+      "start": 63.3,
+      "end": 64.3,
+      "text": "You don't remember?"
+    },
+    {
+      "id": 33,
+      "start": 64.3,
+      "end": 65.3,
+      "text": "A city of Christophe."
+    },
+    {
+      "id": 34,
+      "start": 65.3,
+      "end": 67.3,
+      "text": "And your niece is coming tonight?"
+    },
+    {
+      "id": 35,
+      "start": 67.3,
+      "end": 68.3,
+      "text": "Yeah."
+    },
+    {
+      "id": 36,
+      "start": 68.3,
+      "end": 69.3,
+      "text": "Because our member is quite young."
+    },
+    {
+      "id": 37,
+      "start": 69.3,
+      "end": 70.3,
+      "text": "Yeah, she's three."
+    },
+    {
+      "id": 38,
+      "start": 70.3,
+      "end": 71.3,
+      "text": "Right."
+    },
+    {
+      "id": 39,
+      "start": 71.3,
+      "end": 73.78,
+      "text": "And that's your sister's daughter."
+    },
+    {
+      "id": 40,
+      "start": 73.78,
+      "end": 76.13,
+      "text": "No, it's my brother's."
+    },
+    {
+      "id": 41,
+      "start": 76.13,
+      "end": 82.62,
+      "text": "And where does your niece live normally?"
+    },
+    {
+      "id": 42,
+      "start": 82.62,
+      "end": 83.62,
+      "text": "She lives in St."
+    },
+    {
+      "id": 43,
+      "start": 83.62,
+      "end": 84.62,
+      "text": "St."
+    },
+    {
+      "id": 44,
+      "start": 84.62,
+      "end": 85.62,
+      "text": "Orbans."
+    },
+    {
+      "id": 45,
+      "start": 85.62,
+      "end": 89.02,
+      "text": "All right."
+    },
+    {
+      "id": 46,
+      "start": 89.02,
+      "end": 90.02,
+      "text": "And that's the thing."
+    },
+    {
+      "id": 47,
+      "start": 90.02,
+      "end": 91.02,
+      "text": "Your sister's coming tomorrow?"
+    },
+    {
+      "id": 48,
+      "start": 91.02,
+      "end": 92.02,
+      "text": "Yeah."
+    },
+    {
+      "id": 49,
+      "start": 92.02,
+      "end": 93.02,
+      "text": "And where's that from?"
+    },
+    {
+      "id": 50,
+      "start": 93.02,
+      "end": 95.22,
+      "text": "She lives in St."
+    },
+    {
+      "id": 51,
+      "start": 95.22,
+      "end": 96.22,
+      "text": "St. Orbans."
+    },
+    {
+      "id": 52,
+      "start": 96.22,
+      "end": 97.22,
+      "text": "All right."
+    },
+    {
+      "id": 53,
+      "start": 97.22,
+      "end": 98.22,
+      "text": "Okay."
+    },
+    {
+      "id": 54,
+      "start": 98.22,
+      "end": 100.22,
+      "text": "So both your brother and your sister live in St. Orbans?"
+    },
+    {
+      "id": 55,
+      "start": 100.22,
+      "end": 101.22,
+      "text": "Oh, no."
+    },
+    {
+      "id": 56,
+      "start": 101.22,
+      "end": 103.22,
+      "text": "But my brother lives in Anfield."
+    },
+    {
+      "id": 57,
+      "start": 103.22,
+      "end": 104.22,
+      "text": "Right."
+    },
+    {
+      "id": 58,
+      "start": 104.22,
+      "end": 105.22,
+      "text": "And my sister's in St."
+    },
+    {
+      "id": 59,
+      "start": 105.22,
+      "end": 106.22,
+      "text": "St. Orbans, yeah."
+    },
+    {
+      "id": 60,
+      "start": 106.22,
+      "end": 107.38,
+      "text": "Both of you live in Orbans."
+    },
+    {
+      "id": 61,
+      "start": 107.38,
+      "end": 110.94,
+      "text": "Yeah."
+    },
+    {
+      "id": 62,
+      "start": 110.94,
+      "end": 112.42,
+      "text": "We do a list tonight."
+    },
+    {
+      "id": 63,
+      "start": 112.42,
+      "end": 114.89,
+      "text": "Um, three."
+    },
+    {
+      "id": 64,
+      "start": 114.89,
+      "end": 118.36,
+      "text": "She's kind of hyper."
+    },
+    {
+      "id": 65,
+      "start": 118.36,
+      "end": 120.99,
+      "text": "So."
+    },
+    {
+      "id": 66,
+      "start": 120.99,
+      "end": 123.99,
+      "text": "So you'll be giving your brother a bit of a rest."
+    },
+    {
+      "id": 67,
+      "start": 123.99,
+      "end": 125.79,
+      "text": "Yeah."
+    },
+    {
+      "id": 68,
+      "start": 125.79,
+      "end": 127.79,
+      "text": "And is that your only niece or nephew?"
+    },
+    {
+      "id": 69,
+      "start": 127.79,
+      "end": 129.08,
+      "text": "Yeah."
+    },
+    {
+      "id": 70,
+      "start": 129.08,
+      "end": 130.08,
+      "text": "So far."
+    },
+    {
+      "id": 71,
+      "start": 130.08,
+      "end": 132.23,
+      "text": "So far."
+    },
+    {
+      "id": 72,
+      "start": 132.23,
+      "end": 133.23,
+      "text": "Yeah."
+    },
+    {
+      "id": 73,
+      "start": 133.23,
+      "end": 138.23,
+      "text": "I think my sister wants to have a baby sometimes soon."
+    },
+    {
+      "id": 74,
+      "start": 138.23,
+      "end": 139.71,
+      "text": "And you're the youngest?"
+    },
+    {
+      "id": 75,
+      "start": 139.71,
+      "end": 140.71,
+      "text": "Yeah."
+    },
+    {
+      "id": 76,
+      "start": 140.71,
+      "end": 141.71,
+      "text": "I am."
+    },
+    {
+      "id": 77,
+      "start": 141.71,
+      "end": 143.71,
+      "text": "How are your brother and sister?"
+    },
+    {
+      "id": 78,
+      "start": 143.71,
+      "end": 145.71,
+      "text": "My brother's 30."
+    },
+    {
+      "id": 79,
+      "start": 145.71,
+      "end": 147.78,
+      "text": "And my sister's 27."
+    },
+    {
+      "id": 80,
+      "start": 147.78,
+      "end": 152.68,
+      "text": "17."
+    },
+    {
+      "id": 81,
+      "start": 152.68,
+      "end": 153.68,
+      "text": "17."
+    },
+    {
+      "id": 82,
+      "start": 153.68,
+      "end": 154.97,
+      "text": "Not quite."
+    },
+    {
+      "id": 83,
+      "start": 154.97,
+      "end": 155.97,
+      "text": "No."
+    },
+    {
+      "id": 84,
+      "start": 155.97,
+      "end": 156.97,
+      "text": "In November."
+    },
+    {
+      "id": 85,
+      "start": 156.97,
+      "end": 159.76,
+      "text": "Kind of."
+    },
+    {
+      "id": 86,
+      "start": 159.76,
+      "end": 162.08,
+      "text": "And the course is going well?"
+    },
+    {
+      "id": 87,
+      "start": 162.08,
+      "end": 163.21,
+      "text": "Yeah."
+    },
+    {
+      "id": 88,
+      "start": 163.21,
+      "end": 164.21,
+      "text": "So far."
+    },
+    {
+      "id": 89,
+      "start": 164.21,
+      "end": 168.75,
+      "text": "And we'll be specializing soon."
+    },
+    {
+      "id": 90,
+      "start": 168.75,
+      "end": 170.3,
+      "text": "Yeah."
+    },
+    {
+      "id": 91,
+      "start": 170.3,
+      "end": 174.42,
+      "text": "So we're sort of having to find out what we want to do."
+    },
+    {
+      "id": 92,
+      "start": 174.42,
+      "end": 175.58,
+      "text": "Which is kind of hard."
+    },
+    {
+      "id": 93,
+      "start": 175.58,
+      "end": 176.84,
+      "text": "Yeah."
+    },
+    {
+      "id": 94,
+      "start": 176.84,
+      "end": 178.84,
+      "text": "I was just going to say you've got any idea what you want."
+    },
+    {
+      "id": 95,
+      "start": 178.84,
+      "end": 179.84,
+      "text": "Man."
+    },
+    {
+      "id": 96,
+      "start": 179.84,
+      "end": 180.84,
+      "text": "You've got to specialise in your second year."
+    },
+    {
+      "id": 97,
+      "start": 180.84,
+      "end": 181.84,
+      "text": "Yeah."
+    },
+    {
+      "id": 98,
+      "start": 181.84,
+      "end": 185.0,
+      "text": "And that would mean perhaps something I like."
+    },
+    {
+      "id": 99,
+      "start": 185.0,
+      "end": 187.0,
+      "text": "Textile design or printing or something."
+    },
+    {
+      "id": 100,
+      "start": 187.0,
+      "end": 188.0,
+      "text": "Yeah."
+    },
+    {
+      "id": 101,
+      "start": 188.0,
+      "end": 189.0,
+      "text": "That sort of area."
+    },
+    {
+      "id": 102,
+      "start": 189.0,
+      "end": 191.63,
+      "text": "Um."
+    },
+    {
+      "id": 103,
+      "start": 191.63,
+      "end": 192.63,
+      "text": "Photography."
+    },
+    {
+      "id": 104,
+      "start": 192.63,
+      "end": 196.38,
+      "text": "Is that an option?"
+    },
+    {
+      "id": 105,
+      "start": 196.38,
+      "end": 197.38,
+      "text": "Um."
+    },
+    {
+      "id": 106,
+      "start": 197.38,
+      "end": 198.38,
+      "text": "Yeah."
+    },
+    {
+      "id": 107,
+      "start": 198.38,
+      "end": 200.41,
+      "text": "You can do that."
+    },
+    {
+      "id": 108,
+      "start": 200.41,
+      "end": 202.41,
+      "text": "I don't know what are they."
+    },
+    {
+      "id": 109,
+      "start": 202.41,
+      "end": 203.82,
+      "text": "I'm just really stuck."
+    },
+    {
+      "id": 110,
+      "start": 204.82,
+      "end": 207.82,
+      "text": "Tell me what you're using for your genetic engineering project."
+    },
+    {
+      "id": 111,
+      "start": 207.82,
+      "end": 208.82,
+      "text": "Um."
+    },
+    {
+      "id": 112,
+      "start": 208.82,
+      "end": 211.82,
+      "text": "Today I've been trying dip pen."
+    },
+    {
+      "id": 113,
+      "start": 211.82,
+      "end": 213.82,
+      "text": "Which is working quite well."
+    },
+    {
+      "id": 114,
+      "start": 213.82,
+      "end": 217.72,
+      "text": "It's kind of like ink."
+    },
+    {
+      "id": 115,
+      "start": 217.72,
+      "end": 225.14,
+      "text": "And use bleach and stuff to create different effects."
+    },
+    {
+      "id": 116,
+      "start": 225.14,
+      "end": 226.14,
+      "text": "Kind of."
+    },
+    {
+      "id": 117,
+      "start": 226.14,
+      "end": 230.22,
+      "text": "So it's free hand drawing."
+    },
+    {
+      "id": 118,
+      "start": 230.22,
+      "end": 231.22,
+      "text": "Um."
+    },
+    {
+      "id": 119,
+      "start": 231.22,
+      "end": 244.99,
+      "text": "Yeah."
+    },
+    {
+      "id": 120,
+      "start": 244.99,
+      "end": 247.99,
+      "text": "And then use bleach to give it different effects."
+    },
+    {
+      "id": 121,
+      "start": 247.99,
+      "end": 249.99,
+      "text": "And it kind of makes a go."
+    },
+    {
+      "id": 122,
+      "start": 249.99,
+      "end": 251.28,
+      "text": "Yeah."
+    },
+    {
+      "id": 123,
+      "start": 251.28,
+      "end": 252.28,
+      "text": "Yeah."
+    },
+    {
+      "id": 124,
+      "start": 252.28,
+      "end": 253.28,
+      "text": "Yeah, I'll be looking."
+    },
+    {
+      "id": 125,
+      "start": 253.28,
+      "end": 255.75,
+      "text": "And if you can't, interesting."
+    },
+    {
+      "id": 126,
+      "start": 255.75,
+      "end": 258.71,
+      "text": "You're just experimenting."
+    },
+    {
+      "id": 127,
+      "start": 258.71,
+      "end": 259.71,
+      "text": "At the moment."
+    },
+    {
+      "id": 128,
+      "start": 259.71,
+      "end": 260.71,
+      "text": "I am."
+    },
+    {
+      "id": 129,
+      "start": 260.71,
+      "end": 262.71,
+      "text": "Because I don't know what to use for it."
+    },
+    {
+      "id": 130,
+      "start": 262.71,
+      "end": 264.45,
+      "text": "Yeah."
+    },
+    {
+      "id": 131,
+      "start": 264.45,
+      "end": 265.58,
+      "text": "Um."
+    },
+    {
+      "id": 132,
+      "start": 265.58,
+      "end": 266.58,
+      "text": "Two weeks."
+    },
+    {
+      "id": 133,
+      "start": 266.83,
+      "end": 267.83,
+      "text": "So."
+    },
+    {
+      "id": 134,
+      "start": 267.83,
+      "end": 268.9,
+      "text": "You've got to hand it in the last up when you can."
+    },
+    {
+      "id": 135,
+      "start": 268.9,
+      "end": 269.9,
+      "text": "Yeah."
+    }
+  ]
+}
