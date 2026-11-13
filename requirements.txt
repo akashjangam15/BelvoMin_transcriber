@@ -1,2 +1,6 @@
 faster-whisper
 av<17
+fastapi
+uvicorn
+pydantic
+scikit-learn
